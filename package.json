@@ -1,0 +1,45 @@
+{
+    "private": true,
+    "name": "test-jest-typescript",
+    "description": "",
+    "version": "0.0.0",
+    "license": "MIT",
+    "author": {
+        "name": "Piotr Kowalski",
+        "email": "piecioshka@gmail.com",
+        "url": "https://piecioshka.pl/"
+    },
+    "scripts": {
+        "clear": "rm -rf dist/ coverage/",
+        "clear:all": "rm -rf node_modules/ && npm run clear",
+        "start": "ts-node src/index.ts",
+        "dev": "ts-node-dev src/index.ts",
+        "test": "jest",
+        "test:watch": "npm run test -- --watch",
+        "coverage": "npm run test -- --coverage",
+        "coveralls": "npm run coverage -- --coverageReporters=text-lcov | coveralls -v"
+    },
+    "dependencies": {
+        "@types/node-fetch": "^2.5.0",
+        "node-fetch": "^2.6.0"
+    },
+    "devDependencies": {
+        "@babel/preset-env": "^7.5.5",
+        "@types/jest": "^24.0.15",
+        "@types/node": "^12.6.9",
+        "babel-jest": "^24.8.0",
+        "coveralls": "^3.0.5",
+        "jest": "^24.8.0",
+        "ts-jest": "^24.0.2",
+        "ts-node": "^8.3.0",
+        "ts-node-dev": "^1.0.0-pre.40",
+        "typescript": "^3.5.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:piecioshka/test-jest-typescript.git"
+    },
+    "engines": {
+        "node": ">=8"
+    }
+}
