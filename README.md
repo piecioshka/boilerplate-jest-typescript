@@ -9,7 +9,7 @@
 
 ## Motivation
 
-I can't find a simple project with Jest & TypeScript integration.
+I can't find a simple project with Jest & TypeScript integration.<br/>
 So I spent some time to create that one.
 
 ## Unit tests
@@ -20,8 +20,8 @@ npm test
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />
-Feel free to check [issues page](/issues/).
+Contributions, issues and feature requests are welcome!<br/>
+Feel free to check [issues page](https://github.com/piecioshka/test-jest-typescript/issues/).
 
 ## Show your support
 
