@@ -8,7 +8,9 @@
             "type": "node",
             "request": "launch",
             "name": "Start app",
-            "args": ["${workspaceFolder}/src/index.ts"],
+            "args": [
+                "${workspaceFolder}/src/index.ts"
+            ],
             "runtimeArgs": ["--nolazy", "-r", "ts-node/register"],
             "protocol": "inspector"
         },
