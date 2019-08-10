@@ -8,11 +8,15 @@
             "type": "node",
             "request": "launch",
             "name": "Start app",
+            "protocol": "inspector",
+            "runtimeArgs": [
+                "--nolazy",
+                "-r",
+                "ts-node/register"
+            ],
             "args": [
                 "${workspaceFolder}/src/index.ts"
-            ],
-            "runtimeArgs": ["--nolazy", "-r", "ts-node/register"],
-            "protocol": "inspector"
+            ]
         },
         {
             "type": "node",
