@@ -1,9 +1,7 @@
 # test-jest-typescript
 
-[![dependencies](https://david-dm.org/piecioshka/test-jest-typescript.svg)](https://github.com/piecioshka/test-jest-typescript)
 [![travis-ci](https://api.travis-ci.org/piecioshka/test-jest-typescript.svg?branch=master)](https://travis-ci.org/piecioshka/test-jest-typescript)
 [![coveralls](https://coveralls.io/repos/github/piecioshka/test-jest-typescript/badge.svg?branch=master)](https://coveralls.io/github/piecioshka/test-jest-typescript?branch=master)
-[![snyk](https://snyk.io/test/github/piecioshka/test-jest-typescript/badge.svg?targetFile=package.json)](https://snyk.io/test/github/piecioshka/test-jest-typescript?targetFile=package.json)
 
 📒 Test project with Jest & TypeScript
 
