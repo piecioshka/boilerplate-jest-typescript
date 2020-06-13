@@ -3,7 +3,13 @@
 [![travis-ci](https://api.travis-ci.org/piecioshka/boilerplate-jest-typescript.svg?branch=master)](https://travis-ci.org/piecioshka/boilerplate-jest-typescript)
 [![coveralls](https://coveralls.io/repos/github/piecioshka/boilerplate-jest-typescript/badge.svg?branch=master)](https://coveralls.io/github/piecioshka/boilerplate-jest-typescript?branch=master)
 
-📒 Test project with Jest & TypeScript
+🍴 Starter with Jest & TypeScript
+
+## Features
+
+* :white_check_mark: Jest `v26.0.1`
+* :white_check_mark: TypeScript `v3.9.5`
+* :white_check_mark: Webpack `v4.43.0`
 
 ## Motivation
 
@@ -27,8 +33,8 @@ Give a ⭐️ if this project helped you!
 
 ## Related
 
-* [test-mocha-typescript](https://github.com/piecioshka/test-mocha-typescript)
-* [test-jasmine-typescript](https://github.com/piecioshka/test-jasmine-typescript)
+* [boilerplate-mocha-typescript](https://github.com/piecioshka/boilerplate-mocha-typescript)
+* [boilerplate-jasmine-typescript](https://github.com/piecioshka/boilerplate-jasmine-typescript)
 
 ## License
 
