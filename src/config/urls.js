@@ -1,3 +1,3 @@
 export const urls = {
-    productsUrl: 'http://my-json-server.typicode.com/piecioshka/fakes/products'
+    productsUrl: 'https://fakes.herokuapp.com/products'
 };
