@@ -9,7 +9,6 @@
 
 * :white_check_mark: Jest `v26.0.1`
 * :white_check_mark: TypeScript `v3.9.5`
-* :white_check_mark: Webpack `v4.43.0`
 
 ## Motivation
 
