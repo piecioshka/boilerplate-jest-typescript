@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "test-jest-typescript",
+    "name": "boilerplate-jest-typescript",
     "description": "",
     "version": "0.0.0",
     "license": "MIT",
@@ -37,7 +37,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:piecioshka/test-jest-typescript.git"
+        "url": "git@github.com:piecioshka/boilerplate-jest-typescript.git"
     },
     "engines": {
         "node": ">=8"
