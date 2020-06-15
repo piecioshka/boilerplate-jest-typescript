@@ -1,8 +1,5 @@
 # boilerplate-jest-typescript
 
-[![travis-ci](https://api.travis-ci.org/piecioshka/boilerplate-jest-typescript.svg?branch=master)](https://travis-ci.org/piecioshka/boilerplate-jest-typescript)
-[![coveralls](https://coveralls.io/repos/github/piecioshka/boilerplate-jest-typescript/badge.svg?branch=master)](https://coveralls.io/github/piecioshka/boilerplate-jest-typescript?branch=master)
-
 🍴 Starter with Jest & TypeScript
 
 ## Features
@@ -37,4 +34,4 @@ Give a ⭐️ if this project helped you!
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2019
+[The MIT License](http://piecioshka.mit-license.org) @ 2019-2020

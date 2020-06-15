@@ -16,8 +16,7 @@
         "dev": "ts-node-dev src/index.ts",
         "test": "jest",
         "test:watch": "npm run test -- --watch",
-        "coverage": "npm run test -- --coverage",
-        "coveralls": "npm run coverage -- --coverageReporters=text-lcov | coveralls -v"
+        "coverage": "npm run test -- --coverage"
     },
     "dependencies": {
         "@types/node-fetch": "^2.5.7",
@@ -28,7 +27,6 @@
         "@types/jest": "^26.0.0",
         "@types/node": "^14.0.13",
         "babel-jest": "^26.0.1",
-        "coveralls": "^3.1.0",
         "jest": "^26.0.1",
         "ts-jest": "^26.1.0",
         "ts-node": "^8.10.2",
