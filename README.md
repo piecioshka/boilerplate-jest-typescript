@@ -4,13 +4,8 @@
 
 ## Features
 
-* :white_check_mark: Jest `v26.0.1`
-* :white_check_mark: TypeScript `v3.9.5`
-
-## Motivation
-
-I can't find a simple project with Jest & TypeScript integration.<br/>
-So I spent some time to create that one.
+* :white_check_mark: Jest `v27.4.3`
+* :white_check_mark: TypeScript `v4.5.2`
 
 ## Unit tests
 
@@ -18,14 +13,11 @@ So I spent some time to create that one.
 npm test
 ```
 
-## 🤝 Contributing
+## Code Coverage
 
-Contributions, issues and feature requests are welcome!<br/>
-Feel free to check [issues page](https://github.com/piecioshka/boilerplate-jest-typescript/issues/).
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
+```bash
+npm run coverage
+```
 
 ## Related
 
@@ -34,4 +26,4 @@ Give a ⭐️ if this project helped you!
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2019-2020
+[The MIT License](http://piecioshka.mit-license.org) @ 2019-2021

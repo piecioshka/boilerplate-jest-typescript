@@ -1,13 +1,11 @@
-import fetch from 'node-fetch';
-import { urls } from '../config/urls';
+import { urls } from "../config/urls";
+import { Product } from "../interfaces/product.interface";
+import { makeRequest } from "../utils/make-request";
 
 class ProductsService {
-
-    async getProducts() {
-        const response = await fetch(urls.productsUrl);
-        return response.json();
-    }
-
+  getProducts(): Promise<Product[]> {
+    return makeRequest(urls.productsUrl);
+  }
 }
 
 export const Products = new ProductsService();
