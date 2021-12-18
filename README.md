@@ -4,8 +4,8 @@
 
 ## Features
 
-* :white_check_mark: Jest `v27.4.3`
-* :white_check_mark: TypeScript `v4.5.2`
+* :white_check_mark: Jest `v27.4.5`
+* :white_check_mark: TypeScript `v4.5.4`
 
 ## Unit tests
 
